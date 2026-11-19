@@ -1,4 +1,4 @@
-gradio>=5.0,<7.0
+gradio>=5.0,<6.0
 pymupdf>=1.24
 rank-bm25>=0.2.2
 langgraph>=0.2
